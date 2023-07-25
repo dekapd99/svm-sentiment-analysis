@@ -1,1 +1,1 @@
-# Sentiment Analysis Support Vector Machine
+# Sentiment Analysis Support Vector Machine (SVM)
